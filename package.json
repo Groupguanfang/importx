@@ -1,9 +1,9 @@
 {
   "name": "importx-tsup",
   "type": "module",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "packageManager": "pnpm@9.11.0",
-  "description": "(With CommonJS) Unified tool for importing TypeScript modules at runtime",
+  "description": "(With CommonJS, forked) Unified tool for importing TypeScript modules at runtime",
   "author": "Anthony Fu <anthonyfu117@hotmail.com>",
   "license": "MIT",
   "funding": "https://github.com/sponsors/antfu",
